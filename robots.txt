@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yaicaeteyi.hexiaowen.cn/sitemap.xml
